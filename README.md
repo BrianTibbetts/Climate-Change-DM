@@ -2,7 +2,7 @@ Climate-Change-DM is a data mining project I'm planning for data related to clim
 
 I learned about data mining, machine learning, and the algorithms and software I could use to start the project by reading Data Mining: Practical Machine Learning Tools and Techniques (2011) by Ian H. Witten, Eibe Frank, and Mark A. Hall.
 
-The data set I analyzed came from here:
+The data set I ended up analyzing came from here:
 https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 
 I added information about El Niño events from here:
