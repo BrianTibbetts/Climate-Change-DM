@@ -4,3 +4,9 @@ I learned about data mining, machine learning, and the algorithms and software I
 
 The data set I analyzed came from here:
 https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
+I added information about El Niño events from here:
+
+http://www.bom.gov.au/climate/enso/enlist/
+
+The volcano information came from various sources about major events, including Krakatoa in 1883 and Mt. Saint Helens in 1980. I extended the effect of sulfur in the atmosphere 2 years after each eruption ended because sulfur stays in the atmosphere for a global cooling effect about that long.
